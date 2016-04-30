@@ -1,4 +1,4 @@
-package com.tigerit.exam;
+package main.java.com.tigerit.exam;
 
 /**
  * Do not change this class file.

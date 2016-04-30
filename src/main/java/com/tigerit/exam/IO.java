@@ -1,4 +1,4 @@
-package com.tigerit.exam;
+package main.java.com.tigerit.exam;
 
 import java.io.BufferedReader;
 import java.io.IOException;
