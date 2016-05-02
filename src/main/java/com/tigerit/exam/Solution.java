@@ -1,7 +1,7 @@
-package main.java.com.tigerit.exam;
+package com.tigerit.exam;
 
 
-import static main.java.com.tigerit.exam.IO.*;
+import static com.tigerit.exam.IO.*;
 
 /**
  * All of your application logic should be placed inside this class.

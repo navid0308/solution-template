@@ -1,6 +1,4 @@
-package main.java.com.tigerit.exam;
-
-import static main.java.com.tigerit.exam.IO.printLine;
+package com.tigerit.exam;
 
 public class queries {
     private final table T;

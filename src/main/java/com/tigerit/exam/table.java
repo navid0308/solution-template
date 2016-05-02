@@ -1,5 +1,4 @@
-package main.java.com.tigerit.exam;
-import static main.java.com.tigerit.exam.IO.*;
+package com.tigerit.exam;
 
 public class table {
     private String name;
